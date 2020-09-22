@@ -7,7 +7,7 @@ left semi join是以左表为准，在右表中查找匹配的记录，如果查
 
 ![spark-sql-semi-join](http://sharkdtu.com/images/spark-sql-semi-join.png)
 
-参考链接：http://sharkdtu.com/posts/spark-sql-join.html
+[参考链接：][http://sharkdtu.com/posts/spark-sql-join.html]
 
 
 ### 2、在查询日志的过程中，怎么判断节点任务执行慢是因为数据倾斜还是节点本身性能问题(不是与其它节点比较，即不能再次运行对比)？
